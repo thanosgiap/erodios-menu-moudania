@@ -14,7 +14,7 @@ export const ui = {
     dessert:    'Desserts',
     coffee:     'Coffee & Drinks',
     tagline:    'Greek & Mediterranean Cuisine',
-    location:   'Hanioti, Halkidiki',
+    location:   'N.Moudania, Halkidiki',
     footer:     'All dishes prepared with fresh, local ingredients.',
   },
   el: {
@@ -30,7 +30,7 @@ export const ui = {
     dessert:    'Επιδόρπια',
     coffee:     'Καφές & Ποτά',
     tagline:    'Ελληνική & Μεσογειακή Κουζίνα',
-    location:   'Χανιώτη, Χαλκιδική',
+    location:   'Ν.Μουδανιά, Χαλκιδική',
     footer:     'Όλα τα πιάτα παρασκευάζονται με φρέσκα, τοπικά υλικά.',
   },
   ru: {
@@ -46,7 +46,7 @@ export const ui = {
     dessert:    'Десерты',
     coffee:     'Кофе & Напитки',
     tagline:    'Греческая и средиземноморская кухня',
-    location:   'Ханиоти, Халкидики',
+    location:   'Н.Муданиа, Халкидики',
     footer:     'Все блюда приготовлены из свежих местных продуктов.',
   },
 } satisfies Record<Language, Record<string, string>>
