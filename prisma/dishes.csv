@@ -1,0 +1,109 @@
+english_name,greek_name,russian_name,english_description,greek_description,russian_description,price,category
+Chicken Soup,Κοτόσουπα,Греческий куриный суп,,,,4,soup
+Beef soup with vegetables,Κρεατόσουπα,Суп из говядины с овощами,,,,4,soup
+Tzatziki,Τζατζίκι,Дзадзики,,,,4,appetizer
+Cheese salad,Τυροσαλάτα,Сырный салат,,,,4,appetizer
+Grilled mushrooms,Μανιτάρια στη σχάρα,Грибы на гриле,,,,4,appetizer
+Fried zucchini,Κολοκύθια τηγανητά,Кабачки жареные,,,,4,appetizer
+Smoked mackerel,Σκουμπρί καπνιστό,Копченая скумбрия на гриле,,,,15,appetizer
+Fried hard cheese ,Κεφαλοτύρι τηγανιτό ,Сыр Кефалотири жареный ,,,,15,appetizer
+Roasted vegetables,Ψητά λαχανικά ,Овощи на гриле,"with basil, balsamic vinegar and olive oil","με βασιλικό, μπαλσάμικο και ελαιόλαδο",,7,appetizer
+Risotto with seafood,Ριζότο με βελουτέ θαλασσινών,Ризотто из морепродуктов,,,,5,appetizer
+Risotto with fresh vegetables ,Ριζότο με φρέσκα λαχανικά,Ризотто из овощей ,,,,5,appetizer
+Erodios cheese croquettes,Τυροκροκέτες του Ερωδιού ,Erodios сырные крокеты,,,,5,appetizer
+Aubergine “little boat”,Μελιτζάνα βαρκούλα,Баклажан на гриле,with garlic and feta cheese,με σκόρδο και τυρί φέτα,с чесноком и сыром фета,5,appetizer
+Grilled feta cheese,Φέτα ψητή,Сыр фета жареный,"with tomato, green pepper and olive oil","με ντομάτα, πράσινη πιπερία και ελαιόλαδο",,5,appetizer
+Grilled Chaloumi cheese,Χαλούμι Κύπρου ψητό,Сыр Халуми жареный,with seasonal marmalade,με μαρμελάδα εποχής,,5,appetizer
+Bougiourdi,Μπουγιουρντί,Bougiourdi,optionally spice,προαιρετικά καυτερό,,6,appetizer
+Potatoes gratine,Πατάτες γκρατινέ,Картофель  о-гратен,,,,5,appetizer
+Grilled talagani cheese,Ταλαγάνι ψητό,Сыр Талагани ,,,,5,appetizer
+Erotiis ,Ερωτιής ,Erotiis ЭротииC ,"Lettuce, carrot, mushrooms, tomato, cucumber, beef, metsovone, cocktail sauce ","Μαρούλι, καρότο, μανιτάρια, ντομάτα, αγγούρι, μοσχάρι, μετσοβόνε, σάλτσα κοκτέιλ ","Салат, морковь, грибы, помидор, огурец, говядина, мецовоне, коктейльный соус ",5,salad
+Persefoni ,Περσεφόνη,Персефони Салат ,"Fresh vegetables, chicken, croutons, goat cheese, mustard sauce, olive oil and balsamic ","Φρέσκα λαχανικά, κοτόπουλο, κρουτόν, κατσικίσιο τυρί, σάλτσα μουστάρδας, ελαιόλαδο και μπαλσάμικο ","Свежие овощи, курица, крутон, козий сыр, горчичный соус, оливковое масло и бальзамик ",5,salad
+Chef’s salad ,H Σαλάτα του Σεφ ,Салат шеф ,"Vegetables, ham, gouda cheese, cocktail sauce, egg ","Λαχανικά, ζαμπόν, τυρί γκούντα, σως κοκτέιλ, αυγό ","Овощи, ветчина, сыр гауда, коктейльный соус, яйцо ",5,salad
+The Greek salad ,H Ελληνική σαλάτα ,Греческий салат,"Tomato, cucumber, onion, pepper, olives, feta cheese, olive oil ","Ντομάτα, αγγούρι, κρεμμύδι, πιπεριά, ελιές, τυρί φέτα, ελαιόλαδο ","Помидор, огурец, лук, перец, оливки, сыр фета, оливковое масло ",5,salad
+Otto’s salad ,Η σαλάτα του Ότο ,Салат Отто ,"Fresh vegetables with gruyere cheese, sun-dried tomatoes, sesame and croutons in a soft vinaigrette balsamic ","Φρέσκα λαχανικά με κεφαλογραβιέρα, λιαστή ντομάτα, σουσάμι και κρουτόν σε απαλή βινεγκρέτ βαλσάμικο ","Свежие овощи с грюйер, cушеные помидоры, кунжут и крутон, в бальзамическом винегрет ",5,salad
+The Green salad,Πράσινη σαλάτα ,Зеленый сал ,"Lettuce, arugula, tomato, goat cheese, olive oil & balsamico vinegar ","Μαρούλι, ρόκα, ντομάτα, γιδοτύρι, ελαιόλαδο και ξύδι μπαλσάμικο ","Салат, руккола, помидор, козий сыр, оливковое масло и бальзамический уксус ",5,salad
+The Happy salad ,H Εύθυμη σαλάτα ,Весёлый салат ,"Arugula, lettuce, tomato, juicy orange pieces, goat cheese and nuts, dressed with light vinaigrette sauce ","Ρόκα, μαρούλι, ντομάτα, ζουμερά κομάτια πορτοκάλι, γιδοτύρι και καρύδια, λουσμένα με απαλή βινεγκρέτ ","Руккола, cалат, помидоры, сочные кусочки апельсина,  козий сыр  и грецкий орех под  апельсиновым соусом ",5,salad
+Caesar’s salad ,Σαλάτα του Καίσαρα ,Салат Кесара ,"Lettuce, iceberg, chicken, croutons, hard cheese and Caesar’s sauce ","Μαρούλι, άιςμπεργκ, κοτόπουλο, κρουτόν, κεφαλοτύρι και σίζαρ σως ","Салат, айсберг, курица, крутон, пармезан и соус Цезарь ",5,salad
+Tuna salad ,Τονοσαλάτα ,Салат из тунца ,"Lettuce, tomato, cucumber, onion, pepper, tuna, corn, olive oil or cocktail sauce ","Μαρούλι, ντομάτα, αγγούρι, κρεμμύδι, πιπεριά, τόνος, καλαμπόκι, ελαιόλαδο ή κοκτέιλ σως ","Салат, помидор, огурец, лук, перец, тунца, кукуруза, оливковое масло или коктейльный соус",5,salad
+ Mediterranean salad,Μεσόγειος ,Средиземноморский Салат ,"Lettuce, tomato, arugula, grilled vegetables chaloumi cheese, vinaigrette, mustard sauce ","Μαρούλι, ντομάτα, ρόκα, ψητά λαχανικά, χαλούμι, βινεγκρέτ, σως μουστάρδας ","Салат, помидор, руккола, овощи на гриле, халлуми, винегрет, горчичный соус ",5,salad
+Salad XL ,Σαλάτα XL ,Салат XL ,"Fresh vegetables, peppers, onions, goat cheese, mustard sauce, olive oil, balsamic vinegar ","Φρέσκα λαχανικά, πιπεριά, κρεμμύδι, κατσικίσιο τυρί, σάλτσα μουστάρδας, ελαιόλαδο, ξύδι μπαλσάμικο ","Свежие овощи, перец, лук, козий сыр, горчичный соус, оливковое масло и бальзамический уксус ",5,salad
+Lettuce ,Μαρούλι ,"Мелко нарезанные листья
+салата с луком и укропом
+",,,,5,salad
+Tomatosalad ,Ντοματοσαλάτα ,Салат из помидор ,,,,5,salad
+Tomato & Cucumber salad ,Αγγουροντομάτα ,Салат из помидоров и огурцов с луком ,,,,5,salad
+Mousaka ,Μουσακάς ,Мусакас ,,,,10,speciality
+Pastitsio ,Παστίτσιο ,Паститсио ,,,,10,speciality
+Veal cooked in tomato sauce ,Μοσχάρι κοκκινιστό ,"Телятина, приготовленная в томатном соусе ",,,,10,speciality
+Lamb with potatoes in the oven ,Αρνάκι με πατάτες φούρνου ,Баранина с картофелем в духовке ,,,,10,speciality
+Veal cooked with onions (Stifado) ,Μοσχαράκι με κρεμμυδάκια στιφάδο ,"Телятина, приготовленная с луком (стифадо) ",,,,10,speciality
+Meatballs with potatoes in the oven ,Κεφτεδάκια φούρνου με πατάτες ,Фрикадельки с картошкой в ​​духовке ,,,,10,speciality
+Greek meze (for 2 persons) ,Ελληνικά μεζεδάκια (για δύο άτομα) ,Г реческий мезе ( 2 персоны) ,"Variety of meats, piperonati, zucchini, grilled feta cheese, tzatziki, tomato & cucumber salad ","Ποικιλία κρεάτων, πιπερονάτη, κολοκυθάκια, φέτα ψητή, τζατζίκι, αγγουροντομάτα ","Разнообразие мясноro, пйперонатн, цуккини, жареный сыр фета, тцадзики, πомидор и огурец cалат ",10,speciality
+Spaghetti with tomato and basil flavor,Μακαρόνια με άρωμα τομάτας & βασιλικό,Спагетти с помидорами и с базиликом ,,,,10,pasta
+Carbonara ,Καρμπονάρα ,Карбонара,,,,10,pasta
+Spaghetti Bolognese ,Μακαρόνια με σάλτσα Μπολονέζ ,Спагетти Болоньезе ,,,,10,pasta
+Erodios the Wealthy ,Του Ερωδιού η Εύπορη ,сытная паста Цапля,"Bacon, ham, mushrooms, minced meat, tomato sauce ","Μπέικον, ζαμπόν, μανιτάρια, κιμάς, σάλτσα ντομάτας ","Бекон, ветчина, грибы, фарш, томатный соус ",10,pasta
+Spaghetti with shrimps “monastic” ,Γαριδομακαρονάδα μοναστηριακή ,Спагетти с креветками по монастырский ,,,,10,pasta
+Spaghetti with seafood ,Μακαρονάδα με θαλασσινά ,Спагетти с морепродуктами ,,,,10,pasta
+Linguini with chicken and vegetables ,Λιγκουίνι με κοτόπουλο και λαχανικά ,Паста Лингуини с курицей и овощами ,,,,10,pasta
+Spaghetti al’ olio ,Σπαγγέτι αλ’ όλιο ,Спагетти аль олио ,"Spaghetti, sweet or spicy pepper, garlic, parsley, olive oil ","Σπαγγέτι, πιπεριά γλυκιά ή καυτερή, σκόρδο, μαϊντανός, ελαιόλαδο ","Спагетти, сладкий или острый перец, чеснок, петрушка, оливковое масло ",10,pasta
+Spaghetti with vegetables ,Μακαρονάδα με λαχανικά ,Спагетти с овощами ,,,,10,pasta
+Spaghetti with basil pesto ,Σπαγγέτι με πέστο βασιλικού ,Спагетти с песто из базилика ,,,,10,pasta
+Shrimps saganaki ,Γαρίδες σαγανάκι ,Креветки саганаки ,"with garlic, tomato, parsley and feta cheese ","με σκόρδο, ντομάτα, μαϊντανό και τυρί φέτα ","с чесноком, помидорами, петрушкой и сыром фет ",10,seafood
+Grilled shrimps ,Γαρίδες στη σχάρα ,Креветки на гриле ,,,,10,seafood
+Chef’s shrimps ,Γαρίδες του Σεφ ,Креветки шеф-повара ,"with garlic, butter and olive oil","με σκόρδο, βούτυρο και ελαιόλαδο",,10,seafood
+Fried shrimps ,Γαρίδες τηγανιτές ,Жареные креветки ,,,,10,seafood
+Steamed shrimps with lemon ,Γαρίδες αχνιστές με λεμόνι ,Паровая креветка с лимоном ,,,,10,seafood
+Grilled octopus ,Χταπόδι στη σχάρα ,Осьминог на гриле ,,,,10,seafood
+Grilled squids ,Καλαμάρια στη σχάρα ,Кальмары на гриле ,,,,10,seafood
+Fried squids ,Καλαμαράκια τηγανητά ,Жареные кальмары ,,,,10,seafood
+Steamed hot mussels ,Μύδια αχνιστά ,Мидии на пару ,,,,10,shellfish
+Fried mussels ,Μύδια τηγανητά ,Жареные миди ,,,,10,shellfish
+Mussels saganaki ,Μύδια σαγανάκι ,Мидии саганаки ,,,,10,shellfish
+The boatman’s anchovy ,Γαύρος του βαρκάρη ,Анчоусы лодочника ,,,,10,fish
+Fried anchovy filets ,Φιλετάκια γαύρου τηγανιτά ,Жареное филе анчоуса ,,,,10,fish
+Marinated anchovy ,Γαύρος μαρινάτος ,Маринованный анчоус ,,,,10,fish
+Grilled sardine ,Σαρδέλες στη σχάρα ,Сардины на гриле ,,,,10,fish
+Variety of seafood for two ,Ποικιλία θαλασσινών για δύο άτομα ,Разнообразие морепродуктов на двоих ,,,,10,seafood
+Dorado filet with fresh buttered vegetables ,Φιλέτο τσιπούρας με φρέσκα λαχανικά βουτύρο ,Филе дорадо со свежими овощами ,,,,10,fish
+Swordfish slice ,Ξιφίας φέτα ,Меч-рыба Ломтик ,,,,10,fish
+Red mullets ,Κουτσομούρες ,Барабулька (султанк) ,,,,10,fish
+Red mullets strippe ,Μπαρμπούνια ,Полосатая Барабуля ,,,,10,fish
+Sole fish ,Γλώσσα ,Морской язы ,,,,10,fish
+Greater amberjack slice ,Μαγιάτικο φέτα ,Сериола ,,,,10,fish
+Seabass ,Λαβράκι,Лаврак (Сибас) ,,,,10,fish
+Dorado ,Τσιπούρα,Дорадo ,,,,10,fish
+Variety of fish for two ,Ποικιλία ψαριών για δύο άτομα ,Рыбное ассорти на двоих ,,,,10,fish
+Chicken filet with mushroom sauce ,Φιλέτο κοτόπουλο με σάλτσα μανιταριών ,Куриное филе с с грибным соусом ,,,,10,suggestion
+Chicken filet with Bearnaise sauce ,Φιλέτο κοτόπουλο με σως μπεαρνέζ ,Куриное филе на гриле под яично-масляным соусом беарнез ,,,,10,suggestion
+Pepper steak ,Πέπερ στέικ ,Пеппер-стейк ,,,,10,suggestion
+Chicken filet with Philadelphia sauce ,Φιλέτο κοτόπουλο με σάλτσα Φιλαδέλφεια ,Куриное филе с Филадельфийский соус ,,,,10,suggestion
+Fried pork pieces with lemon and oregano ,Χοιρινή τηγανιά λεμονάτη ,Жареная свинина с лимоном и орегано ,,,,10,suggestion
+Fried chicken pieces with vegetables ,Τηγανιά κοτόπουλο με λαχανικά ,Жареная курица с овощами ,,,,10,suggestion
+Chicken filet with cheese sauce ,Φιλέτο κοτόπουλο με σάλτσα τυριών ,Куриное филе с сырным соусом ,,,,10,suggestion
+Pork scallops with rosemary sauce – a recipe from the Ionian islands ,Επτανησιακά χοιρινά εσκαλοπίνια με σάλτσα δεντρολίβανο ,Эскалоп  cвиные с соусом из розмарина - рецепт с Ионических островов ,,,,10,suggestion
+Domestico’s filets ,Τα Φιλετάκια του Δομέστιχου ,Домашние филе ,pork fillets in sweet and sour sauce ,χοιρινά φιλετάκια σε γλυκόξινη σάλτσα ,свиное филе с кисло-сладким соусом ,10,suggestion
+Chicken Americano ,Κοτόπουλο Αμερικέν ,Американo курица ,"Chicken with bacon, fried onion, grilled tomato and potatoes ","Κοτόπουλο με μπέικον, τηγανιτό κρεμμύδι, ντομάτα σχάρας και πατάτες ","Курица с беконом, жареный лук, жареные помидоры и картофель ",10,suggestion
+Pork or chicken schnitzel with sauce of your choice,Σνίτσελ χοιρινό ή κοτόπουλο με σάλτσα επιλογής σας,Свиной или куриный шницель с соусом на ваш выбор,"ala cream, cheese, Philadelphia, sweet and sour","αλα κρεμ, τυριών, φιλαδέλφεια, γλυκόξινη ","аля крем, сыр, филадельфия, кисло-сладкий ",10,suggestion
+Soutzoukakia with cheese salad on the side ,Σουτζουκάκια με κοπανιστή ,Люля-кебаб с сырным салатом ,,,,10,meat
+Mix Grill (variety of meat) ,Μιξ Γκριλ (ποικιλία κρεάτων) ,Микс Гриль (разновидность мяса) ,,,,10,meat
+Burger on grill,Μπιφτέκι ,Бургер ,,,,10,meat
+Stuffed Burger ,Μπιφτέκι γεμιστό ,Бургер фаршированный ,,,,10,meat
+Pork steak ,Χοιρινή μπριζόλα ,Свинина-гриль ,,,,10,meat
+Lamp ribs ,Παϊδάκια αρνίσια ,Баранина на гриле ,,,,10,meat
+Pork tenderloin ,Ψαρονέφρι χοιρινό ,Медальоны из свинины ,,,,10,meat
+Veal filet ,Φιλέτο μοσχαρίσιο ,Говяжье филе ,,,,10,meat
+Veal steak ,Μπριζόλα Μοσχαρίσια ,Говяжий стейк ,,,,10,meat
+Soutzoukakia Americana ,Σουτζουκάκια Αμερικέν ,Американские соутсукаки ,"with bacon, fried onion, grilled tomato and potatoes ","με μπέικον, τηγανιτό κρεμμύδι, ντομάτα σχάρας και πατάτες ","с беконом, жареный лук, жареные помидоры и картофель ",10,meat
+Baklava with ice cream ,Μπακλαβάς με παγωτό ,Пахлава с мороженым ,,,,10,dessert
+Brownies with ice cream ,Μπράουνις με παγωτό ,Пирожные с мороженым ,,,,10,dessert
+Revani cake with ice cream ,Ρεβανί με παγωτό ,Ревани с мороженым ,,,,10,dessert
+Panacotta ,Πανακότα ,Паннакотта ,,,,10,dessert
+Yogurt with honey and hazelnuts ,Γιαούρτι με μέλι και φουντούκια ,Греческий йогурт с медом и орехами ,,,,10,dessert
+Seasonal fruits ,Φρούτα εποχής ,Фрукты сезона ,,,,10,dessert
+Ice cream ,Παγωτό απλό ,Мороженое ,(various flavors) ,(διάφορες γεύσεις) ,(разные вкусы) ,10,dessert
+Greek coffee ,Ελληνικός ,Greek coffee ,,,,10,coffee
+Nes café (hot) ,Νες καφέ (ζεστό) ,Растворимый кофе ,,,,10,coffee
+Frappe ,Φραπέ ,Фрап ,,,,10,coffee
+Espresso ,Εσπρέσσο ,Эспрессо ,,,,10,coffee
